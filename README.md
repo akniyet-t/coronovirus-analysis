@@ -13,7 +13,7 @@ The project is structured into the following components:
 **visualizations:** Screenshots and visual representations from the analysis.
 
 **Contributors**
-Akniyet Talgatkyzy (@akniyet_t)
+Akniyet Talgatkyzy (@akniyet-t)
 
 **Acknowledgments**
 Worldometers for providing COVID-19 statistics.
