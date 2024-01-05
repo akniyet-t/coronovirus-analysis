@@ -12,16 +12,8 @@ The project is structured into the following components:
 **data_analysis:** Includes notebooks for data cleaning, visualization, and application of the KNN algorithm.
 **visualizations:** Screenshots and visual representations from the analysis.
 
-**How to Run**
-**Clone the repository**: git clone https://github.com/yourusername/covid19-data-analysis.git
-**Navigate to the project directory**: cd covid19-data-analysis
-**Install dependencies**: pip install -r requirements.txt
-**Run the main script:** python data_analysis/main.py
-
 **Contributors**
-Akniyet Talgatkyzy (@yourusername)
-License
-This project is licensed under the MIT License.
+Akniyet Talgatkyzy (@akniyet_t)
 
 **Acknowledgments**
 Worldometers for providing COVID-19 statistics.
